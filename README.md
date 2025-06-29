@@ -1,17 +1,20 @@
-# Parallex-Website
+# Parallax Website 🌄
 
+A simple parallax scrolling website using only **HTML** and **CSS**. It features smooth scrolling, layered backgrounds, and a responsive layout.
 
-A visually appealing parallax scrolling website built using HTML and CSS. This project demonstrates how to create layered scrolling effects without using JavaScript.
+## Features
+- Pure HTML & CSS (no JS)
+- Parallax background effect
+- Clean and responsive design
 
-## 🚀 Live Demo
+## Files
+- `index.html` – Main HTML file  
+- `style.css` – Stylesheet  
+- `assest/` – Background images
 
-[View it on GitHub Pages](https://your-username.github.io/parallax-website/)  
-> *(Replace `your-username` with your actual GitHub username)*
+## How to Run
+Open `index.html` in a web browser.
 
-## 🧰 Technologies Used
-
-- HTML5  
-- CSS3 (with `background-attachment: fixed` for parallax effect)
 
 
 
